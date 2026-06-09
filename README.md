@@ -17,5 +17,22 @@ The user should be able to do the following:
 
 ![img.png](img.png)
 
+### Commands
+* greet -> greets user
+* greet -n name - greets with name
 
-https://roadmap.sh/projects/task-tracker
+
+* <b>task -a " " || task -add " "</b> - add task
+
+
+* <b>task-list </b> -  display all tasks
+* <b>task-list -s "first"</b> - displays first task
+* <b>task-list -s "last"</b> - display last task
+
+
+* <b>task-remove -r id</b> - remove task
+
+
+* <b>task-status -m id</b> - updates task status from progress to done
+
+Project Reference: https://roadmap.sh/projects/task-tracker
